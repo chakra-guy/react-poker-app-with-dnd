@@ -1,0 +1,41 @@
+{
+  "name": "grabyo-poker-react",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {
+    "enzyme": "^3.7.0",
+    "enzyme-adapter-react-16": "^1.7.0",
+    "poker-hands": "^1.0.2",
+    "prop-types": "^15.6.2",
+    "react": "^16.5.2",
+    "react-beautiful-dnd": "8.0.5",
+    "react-dom": "^16.5.2",
+    "react-modal": "^3.6.1",
+    "react-scripts": "2.0.4",
+    "react-test-renderer": "^16.6.3",
+    "styled-components": "^4.1.1",
+    "uuid": "3.3.2"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ],
+  "devDependencies": {
+    "eslint": "5.6.0",
+    "eslint-config-airbnb": "^17.1.0",
+    "eslint-plugin-import": "^2.14.0",
+    "eslint-plugin-jsx-a11y": "^6.1.1",
+    "eslint-plugin-react": "^7.11.1"
+  }
+}
